@@ -18,7 +18,6 @@ while(my $line = <$file>){
 
   if($line =~ m/^{/){
     $flag = 1;
-    next;
   }
 
   if($flag == 1 ){
@@ -32,6 +31,8 @@ while(my $line = <$file>){
 
 }
 my $json_m = JSON->new->allow_nonref;
+
+
 my $perl_scalar = $json_m->decode($json);
 
 while(my ($key, $value) = each($perl_scalar) ){
@@ -45,5 +46,3 @@ while(my ($key, $value) = each($perl_scalar) ){
 eval{
   store (\%hash, ".Weather_List");
 };
-
-
