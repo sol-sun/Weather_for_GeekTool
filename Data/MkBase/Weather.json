@@ -14,15 +14,15 @@
 ## Weather Data
 
 {
-"1.日の出": [""],
+"1.日の出": ["hoge"],
 
 "2.晴れ": ["Fair", "Clear", "Fair with Haze", "Clear with Haze", "Fair and Breezy", "Clear and Breezy"],
 
-"3.三日月":[""],
+"3.三日月":["hoge"],
 
-"4.月食":[""],
+"4.月食":["hoge"],
 
-"5.満月":[""],
+"5.満月":["hoge"],
 
 "6.風":["Windy", "Breezy", "Fair and Windy", "A Few Clouds and Windy", "Partly Cloudy and Windy", "Mostly Cloudy and Windy", "Overcast and Windy"], 
 
@@ -30,19 +30,19 @@
 
 "8.曇り時々晴れ?":["Mostly Cloudy", "Mostly Cloudy with Haze", "Mostly Cloudy and Breezy"],
 
-"9.曇り右後ろ三日月":[""],
+"9.曇り右後ろ三日月":["hoge"],
 
-"10.夕暮れ(?)":[""],
+"10.夕暮れ(?)":["hoge"],
 
-"11.夜明け(?)":[""],
+"11.夜明け(?)":["hoge"],
 
-"12.夕暮れ(くもりver?)":[""],
+"12.夕暮れ(くもりver?)":["hoge"],
 
 "13.霧":["Overcast with Haze","Patches of Fog", "Haze", "Fog/Mist", "Freezing Fog", "Shallow Fog", "Partial Fog", "Patches of Fog", "Fog in Vicinity", "Freezing Fog in Vicinity", "Shallow Fog in Vicinity", "Partial Fog in Vicinity", "Patches of Fog in Vicinity", "Showers in Vicinity Fog", "Light Freezing Fog", "Heavy Freezing Fog"],
 
 "14.くもり":["Overcast", "Overcast with Haze", "Overcast and Breezy"],
 
-"15.くもりの後ろ雷(雷?)":[""],
+"15.くもりの後ろ雷(雷?)":["hoge"],
 
 "16.くもり&雷":["Thunderstorm", "Thunderstorm Rain", "Light Thunderstorm Rain", "Heavy Thunderstorm Rain", "Thunderstorm Rain Fog/Mist", "Light Thunderstorm Rain Fog/Mist", "Heavy Thunderstorm Rain Fog and Windy", "Heavy Thunderstorm Rain Fog/Mist", "Thunderstorm Showers in Vicinity", "Light Thunderstorm Rain Haze", "Heavy Thunderstorm Rain Haze", "Thunderstorm Fog", "Light Thunderstorm Rain Fog", "Heavy Thunderstorm Rain Fog", "Thunderstorm Light Rain", "Thunderstorm Heavy Rain", "Thunderstorm Rain Fog/Mist", "Thunderstorm Light Rain Fog/Mist", "Thunderstorm Heavy Rain Fog/Mist", "Thunderstorm in Vicinity Fog/Mist", "Thunderstorm Showers in Vicinity", "Thunderstorm in Vicinity Haze", "Thunderstorm Haze in Vicinity", "Thunderstorm Light Rain Haze", "Thunderstorm Heavy Rain Haze", "Thunderstorm Fog", "Thunderstorm Light Rain Fog", "Thunderstorm Heavy Rain Fog", "Thunderstorm Hail", "Light Thunderstorm Rain Hail", "Heavy Thunderstorm Rain Hail", "Thunderstorm Rain Hail Fog/Mist", "Light Thunderstorm Rain Hail Fog/Mist", "Heavy Thunderstorm Rain Hail Fog/Hail", "Thunderstorm Showers in Vicinity Hail", "Light Thunderstorm Rain Hail Haze", "Heavy Thunderstorm Rain Hail Haze", "Thunderstorm Hail Fog", "Light Thunderstorm Rain Hail Fog", "Heavy Thunderstorm Rain Hail Fog", "Thunderstorm Light Rain Hail", "Thunderstorm Heavy Rain Hail", "Thunderstorm Rain Hail Fog/Mist", "Thunderstorm Light Rain Hail Fog/Mist", "Thunderstorm Heavy Rain Hail Fog/Mist", "Thunderstorm in Vicinity Hail", "Thunderstorm in Vicinity Hail Haze", "Thunderstorm Haze in Vicinity Hail", "Thunderstorm Light Rain Hail Haze", "Thunderstorm Heavy Rain Hail Haze", "Thunderstorm Hail Fog", "Thunderstorm Light Rain Hail Fog", "Thunderstorm Heavy Rain Hail Fog", "Thunderstorm Small Hail/Snow Pellets", "Thunderstorm Rain Small Hail/Snow Pellets", "Light Thunderstorm Rain Small Hail/Snow Pellets", "Heavy Thunderstorm Rain Small Hail/Snow Pellets"],
 
@@ -50,7 +50,7 @@
 
 "18.くもり&雨(雨つぶ三滴)":["Rain", "Heavy Rain", "Rain Fog/Mist", "Heavy Rain Fog/Mist", "Rain Fog", "Heavy Rain Fog"],
 
-"19.くもり&風(?)":[],
+"19.くもり&風(?)":["hoge"],
 
 "20.くもり&雨&風(二滴)":["Rain Showers", "Light Rain Shower", "Light Rain and Breezy", "Heavy Rain Showers", "Rain Showers in Vicinity", "Light Showers Rain", "Heavy Showers Rain", "Showers Rain", "Showers Rain in Vicinity", "Rain Showers Fog/Mist", "Light Rain Showers Fog/Mist", "Heavy Rain Showers Fog/Mist", "Rain Showers in Vicinity Fog/Mist", "Light Showers Rain Fog/Mist", "Heavy Showers Rain Fog/Mist", "Showers Rain Fog/Mist", "Showers Rain in Vicinity Fog/Mist"],
 
@@ -62,12 +62,12 @@
 
 "24.くも&雪":["Snow", "Light Snow", "Heavy Snow", "Snow Showers", "Light Snow Showers", "Heavy Snow Showers", "Showers Snow", "Light Showers Snow", "Heavy Showers Snow", "Snow Fog/Mist", "Light Snow Fog/Mist", "Heavy Snow Fog/Mist", "Snow Showers Fog/Mist", "Light Snow Showers Fog/Mist", "Heavy Snow Showers Fog/Mist", "Showers Snow Fog/Mist", "Light Showers Snow Fog/Mist", "Heavy Showers Snow Fog/Mist", "Snow Fog", "Light Snow Fog", "Heavy Snow Fog", "Snow Showers Fog", "Light Snow Showers Fog", "Heavy Snow Showers Fog", "Showers Snow Fog", "Light Showers Snow Fog", "Heavy Showers Snow Fog", "Showers in Vicinity Snow", "Snow Showers in Vicinity", "Snow Showers in Vicinity Fog/Mist", "Snow Showers in Vicinity Fog", "Low Drifting Snow", "Blowing Snow", "Snow Low Drifting Snow", "Snow Blowing Snow", "Light Snow Low Drifting Snow", "Light Snow Blowing Snow", "Light Snow Blowing Snow Fog/Mist", "Heavy Snow Low Drifting Snow", "Heavy Snow Blowing Snow", "Thunderstorm Snow", "Light Thunderstorm Snow", "Heavy Thunderstorm Snow", "Snow Grains", "Light Snow Grains", "Heavy Snow Grains", "Heavy Blowing Snow", "Blowing Snow in Vicinity"],
 
-"25.くもりふたつ":[""],
+"25.くもりふたつ":["hoge"],
 
-"26.くもりふたつ&雷(後)":[""],
+"26.くもりふたつ&雷(後)":["hoge"],
 
 "27.くもり&雷(前)":["Light Thunderstorm Rain Fog/Mist"],
 
-"28.コンパス":[""],
+"44.コンパス":["hoge"],
 
-"29.N/A":["A Few Clouds", "A Few Clouds with Haze", "A Few Clouds and Breezy", "Partly Cloudy", "Partly Cloudy with Haze", "Partly Cloudy and Breezy", "Showers in Vicinity", "Showers in Vicinity Fog/Mist", "Showers in Vicinity Fog", "Showers in Vicinity Haze", "Thunderstorm in Vicinity", "Thunderstorm in Vicinity", "Thunderstorm in Vicinity Fog", "Thunderstorm in Vicinity Haze", "Funnel Cloud", "Funnel Cloud in Vicinity", "Tornado/Water Spout", "Tornado","Dust", "Low Drifting Dust", "Blowing Dust", "Sand", "Blowing Sand", "Low Drifting Sand", "Dust/Sand Whirls", "Dust/Sand Whirls in Vicinity", "Dust Storm", "Heavy Dust Storm", "Dust Storm in Vicinity", "Sand Storm", "Heavy Sand Storm", "Sand Storm in Vicinity", "Smoke","Blizzard"]}
+"45.N/A":["A Few Clouds", "A Few Clouds with Haze", "A Few Clouds and Breezy", "Partly Cloudy", "Partly Cloudy with Haze", "Partly Cloudy and Breezy", "Showers in Vicinity", "Showers in Vicinity Fog/Mist", "Showers in Vicinity Fog", "Showers in Vicinity Haze", "Thunderstorm in Vicinity", "Thunderstorm in Vicinity", "Thunderstorm in Vicinity Fog", "Thunderstorm in Vicinity Haze", "Funnel Cloud", "Funnel Cloud in Vicinity", "Tornado/Water Spout", "Tornado","Dust", "Low Drifting Dust", "Blowing Dust", "Sand", "Blowing Sand", "Low Drifting Sand", "Dust/Sand Whirls", "Dust/Sand Whirls in Vicinity", "Dust Storm", "Heavy Dust Storm", "Dust Storm in Vicinity", "Sand Storm", "Heavy Sand Storm", "Sand Storm in Vicinity", "Smoke","Blizzard"]}
