@@ -38,7 +38,7 @@
 
 "12.夕暮れ(くもりver?)":["hoge"],
 
-"13.霧":["Overcast with Haze","Patches of Fog", "Haze", "Fog/Mist", "Freezing Fog", "Shallow Fog", "Partial Fog", "Patches of Fog", "Fog in Vicinity", "Freezing Fog in Vicinity", "Shallow Fog in Vicinity", "Partial Fog in Vicinity", "Patches of Fog in Vicinity", "Showers in Vicinity Fog", "Light Freezing Fog", "Heavy Freezing Fog"],
+    "13.霧":["Fog","Overcast with Haze","Patches of Fog", "Haze", "Fog/Mist", "Freezing Fog", "Shallow Fog", "Partial Fog", "Patches of Fog", "Fog in Vicinity", "Freezing Fog in Vicinity", "Shallow Fog in Vicinity", "Partial Fog in Vicinity", "Patches of Fog in Vicinity", "Showers in Vicinity Fog", "Light Freezing Fog", "Heavy Freezing Fog"],
 
 "14.くもり":["Overcast", "Overcast with Haze", "Overcast and Breezy"],
 
